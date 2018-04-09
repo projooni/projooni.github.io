@@ -8,7 +8,7 @@ topnav:
     - title: News
       url: /news
     - title: Guide
-      url: /index.html
+      url: /mydoc_index.html
 
 #Topnav dropdowns
 #topnav_dropdowns:
